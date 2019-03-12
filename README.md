@@ -7,7 +7,7 @@ In dit vak gaan we rapid prototypen en testen met echte gebruikers. Is er goede 
 ## Leerdoelen
 - _Interface design principles snappen en toepassen_
 - _Leren hoe je moet (Usability) testen en de resultaten gebruiken voor het verbeteren van je ontwerp_
--_User needs begrijpen en gebruiken in je ontwerp_
+- _User needs begrijpen en gebruiken in je ontwerp_
 
 [Rubric](/)
 
