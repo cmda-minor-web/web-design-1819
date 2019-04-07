@@ -1,38 +1,58 @@
 # Web Design @cmda-minor-web 1819
-//Leren over gebruikers, rapid prototyping en testen
+//Werken met en voor echte mensen.
 
-In dit vak gaan we rapid prototypen en testen met echte gebruikers. Is er goede interactie? Zijn er goede design patterns gekozen? Zijn de basis regels van user interface design goed toegepast? Is er een focus op de core functionaliteit?
+In dit vak gaan we dingen ontwerpen voor echte mensen. 
 
+Je bent ingedeeld in een groep. Bij elke groep horen een paar opdrachten. Die mag je zelf kiezen. 
 
-## Leerdoelen
-- _Interface design principles snappen en toepassen_
-- _Leren hoe je moet (Usability) testen en de resultaten gebruiken voor het verbeteren van je ontwerp_
-- _User needs begrijpen en gebruiken in je ontwerp_
+## Maandag
+Op maandag in de eerste week kies je een van de volgende kleine opdrachten om mee op gang te komen.
 
-[Rubric](/)
+Voor het maken van deze opdrachtjes maak je gebruik van de *Exclusive Design Principles:*
 
-## Programma
+- Study Situation
+- Ignore Conventions
+- Prioritise Identity
+- Add Nonsense
 
-### Week 1
-Web Design gaat over het vormgeven van Interactie. Het voordeel van een Frontend Developer, of Web Designer is dat die techniek begrijpt, kan toepassen én verstand heeft van UX en design ... Als je Web techniek begrijpt kun je je ideeën snel prototypen en testen met echte gebruikers, in een browser, en dan aanpassingen doorvoeren, uitproberen en weer testen ...
+### Marie
 
-Deze week gaan we leren Interface Design Principles toe te passen in een ontwerp.
+Marie is Doof (met een hoofdletten inderdaad, dat betekent dat ze zichzelf als Doof identificeert, wat simpelgezegd betekent dat haar eerste taal Nederlandse Gebarentaal is). Je zult begrijpen dat Marie moeite heeft met dingen waar geluid een grote rol speelt.
 
-- Weekly Nerd:
+<details>
+<summary>Hoe werkt een podcast voor Marie?</summary>
+<p>In een transcriptie gaat natuurlijk nogal wat nuance verloren. Maak een oplossing die minimaal net zo prettig is voor iemand die niet kan luisteren als voor iemand die wel kan luisteren. 
+</details>
 
-### Week 2
-Voor het ontwerpen van goede interactie is het belangrijk dat je op de hoogte bent van wat je gebruiker wil en kan doen.
+<details>
+<summary>Hoe werken closed captions voor Marie?</summary>
+<p>Voor Marie gaat er enorm veel nuance verloren tijdens het kijken naar een film of een documentaire. Bij veel films worden closed captions aangeboden, maar die zijn zo neutraal als maar kan. Hoe zou je closed captions 
+</details>
 
-Met User Goals en User Stories kun je beschrijven wat een gebruiker met een website wil bereiken en in welke context. Met een juiste structuur en het ontwerpen van een goede flow (volgorde) van de stappen die iemand moet doorlopen zorg je ervoor dat een gebruiker makkelijk zijn of haar doel kan bereiken. Hoe doe je dat (ook alweer)?
+### Larissa
 
-Deze week gaan we het hebben over User needs en usability.
+Larissa is blind. Ze maakt gebruik van een brailleregel, en van een screenreader. Je snapt dat heel veel van de gangbare design patterns niet optimaal werken voor haar omdat ze 100% vanuit een visueel oogpunt ontworpen zijn.
 
-- Weekly Nerd:
+<details>
+<summary>Hoe zou een navigatie voor Larissa kunnen werken?</summary>
+<p>Tijdens het introductiecollege heb je een filmpje gezien van een niet-getrainde screenreadergebruiker die een navigatiemenu gebruikt. Dat was niet optimaal. Het menu helemaal onderaan de pagina zetten is weer onhandig voor als je dat wel nodig hebt. Stel nou dat *iedereen* blind was en een screenreader gebruikte, wat zou dan het normale navigatie-pattern zijn?
+</details>
 
+<details>
+<summary>Ontwerp grappige, geanimeerde illustraties.</summary>
+<p>Hannes Wallrafen maakt <a href="http://www.geluidinzicht.nl/geluidsprojecten/">audiocollages</a>. Deze wil hij graag op een nieuwe website zetten. Hier wil hij grappige, korte geanimeerde illustraties bij hebben. Ontwerp bij één audiocollage één geanimeerde illustratie <em>die zowel voor Larissa, als voor jezelf grappig is</em>.
+</details>
 
-### Week 3
-Leren over hoe feedback toe te passen in je ontwerp en leren usability testen ...
+### Marijn
 
-Deze week gaan we aandacht besteden aan 'feedback'. Als een webpagina aan het laden is, als er iets misgaat op de server, als iemand een nieuw bericht heeft geschreven in een thread en als je op een knop hebt gedrukt dan zul je gebruik moeten maken van feedback. Zo weet de gebruiker wat er aan de hand is, en of er gebeurt wat hij of zij denkt dat er gebeurt.
+Marijn is motorisch gestoord. Hij gebruikt zijn computer dus anders dan wij. Hij heeft veel moeite met fijne motoriek. Hij gebruikt zijn toetsenbord om te navigeren, en in de Accessibility settings van zijn Mac heeft hij Sticky Keys aan staan.
 
-- Weekly Nerd:
+<details>
+<summary>Ontwerp een date picker voor Marijn</summary>
+<p>. Hij reist veel met de trein, en hij moet van tevoren aangeven welke trein hij wil nemen zodat er iemand is om hem te helpen met zijn rolstoel. Date-pickers zijn over het algemeen priegelig, en niet ontworpen voor iemand die afhankelijk is van zijn toetsenbord.
+</details>
+
+<details>
+<summary>Ontwerp een date picker voor Marijn</summary>
+<p>. Hij reist veel met de trein, en hij moet van tevoren aangeven welke trein hij wil nemen zodat er iemand is om hem te helpen met zijn rolstoel. Date-pickers zijn over het algemeen priegelig, en niet ontworpen voor iemand die afhankelijk is van zijn toetsenbord.
+</details>
