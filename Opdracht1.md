@@ -1,10 +1,10 @@
 # Web design
 ## Opdracht 1 - Annames testen
 
-Op maandag gaan we kennis maken met de echte mensen voor wie we gaan ontwerpen. We gaan een kleine interactieve demo maken om te testen met onze mensen
+Op maandag gaan we kennis maken met de echte mensen voor wie we gaan ontwerpen. We gaan een kleine interactieve demo maken om te testen.
 
 ### Doel van deze opdracht
-Het doel van deze opdracht is om kennsi te maken met de gebruiker, en omte testen of jouw gebruiker, jouw 'mens' je demo goed kan bedienen. Kloppen je aannames?  Wat kun je nog verbeteren?
+Het doel van deze opdracht is om kennis te maken met de gebruiker, en om te testen of jouw gebruiker, jouw 'mens' je demo goed kan bedienen. Kloppen je aannames?  Wat kun je nog verbeteren?
 
 ### Uitleg
 Je wordt ingedeeld in een groep die gaat ontwerpen voor 1 specifieke gebruiker. Bij elke groep horen een paar opdrachten. Die mag je zelf kiezen.
@@ -52,19 +52,15 @@ Marijn is motorisch gestoord. Hij gebruikt zijn computer dus anders dan wij. Hij
 
 <details>
 <summary>Ontwerp een date picker voor Marijn</summary>
-<p>. Hij reist veel met de trein, en hij moet van tevoren aangeven welke trein hij wil nemen zodat er iemand is om hem te helpen met zijn rolstoel. Date-pickers zijn over het algemeen priegelig, en niet ontworpen voor iemand die afhankelijk is van zijn toetsenbord.
+<p>Hij reist veel met de trein, en hij moet van tevoren aangeven welke trein hij wil nemen zodat er iemand is om hem te helpen met zijn rolstoel. Date-pickers zijn over het algemeen priegelig, en niet ontworpen voor iemand die afhankelijk is van zijn toetsenbord?
 </details>
 
 <details>
 <summary>Ontwerp een Drag & Drop lijst</summary>
-<p>. Hoe kun je een drag & drop lijst optimaliseren voor een gebruiker die afhankelijk is van zijn toetsenbord.
+<p>Hoe kun je een drag & drop lijst optimaliseren voor een gebruiker die afhankelijk is van zijn toetsenbord én motorisch gestoord is?
 </details>
 
 
-
-
-Lezen
-- []()
 
 
 
