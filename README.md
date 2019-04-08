@@ -10,7 +10,7 @@ In het vak Web design gaan we dingen ontwerpen voor echte mensen. Is er goede in
 
 
 ## Leerdoelen
-- _Leren hoe je principles in een ontwerp kan toepassen._
+- _Leren hoe je (interface) (design) (in/exclusive) principles in een ontwerp kan toepassen._
 - _User needs begrijpen en gebruiken in je ontwerp._
 - _Leren hoe je moet testen en de resultaten gebruiken voor het verbeteren van je ontwerp._
 
