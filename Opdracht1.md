@@ -66,6 +66,6 @@ Marijn is motorisch gestoord. Hij gebruikt zijn computer dus anders dan wij. Hij
 
 ### Criteria
 - Maak verschillende demo's, versies, varianten van je opdracht.
+- Test je demo's met jouw specifieke gebruiker documenteer de test goed.
 - Verbeter en/of experimenteer met verschillende vormen van interactie. Wat werkt goed? Wat werkt niet goed?
-- Documenteer je werk, en vooral de test goed.
 - Maak duidelijk hoe je de _Exclusive Design Principles_ hebt toegepast.
