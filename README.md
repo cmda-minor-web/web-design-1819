@@ -41,7 +41,7 @@ Daan Rongen gaat vertellen over onderzoek, ontwerp en ontwikkeling in het afstud
 ### Week 2
 Over principles, user needs & testen. Deze week heb je het tweede gesprek met je 'mens'. Wat ga je testen? Wat wil je weten?
 
-[College over Principles, User needs & Testen](https://docs.google.com/presentation/d/13cYkzwAmlMyh4UcO94kMYMKe7GHQGm-OWxVs1wFarPI/edit?usp=sharing)
+- [College over Principles, User needs & Testen](https://docs.google.com/presentation/d/13cYkzwAmlMyh4UcO94kMYMKe7GHQGm-OWxVs1wFarPI/edit?usp=sharing)
 
 #### Lezen
 - [Principles of User Interface Design van Joshua Porter](http://bokardo.com/principles-of-user-interface-design/)
