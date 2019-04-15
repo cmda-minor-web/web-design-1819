@@ -9,9 +9,9 @@ In het vak Web design gaan we dingen ontwerpen voor echte mensen. Is er goede in
 
 | Planning  | Maandag  |  Woensdag | Vrijdag  |
 |---|---|---|---|
-| Week 1  | College Exclusive design + Briefing opdracht 1  | Aannames testen met echte mensen  | Feedbackgesprekken met coach  |
-| Week 2  | College Principles, User Needs & Testen  | Testen met echte mensen  | <del>Feedbackgesprekken</del>  |
-| Week 3  | <del>College</del>  | Testen met echte mensen  | Beoordelingsgesprekken  |
+| Week 1  | College Exclusive design + Briefing opdracht 1  | Aannames testen met echte mensen  | Feedbackgesprekken  |
+| Week 2  | College Principles, User Needs & Testen  | Testen met echte mensen  | <del>Feedbackgesprekken</del><br>_Goede vrijdag_  |
+| Week 3  | <del>College</del><br>_Tweede Paasdag_  | Testen met echte mensen  | Beoordelingsgesprekken  |
 
 
 ## Leerdoelen
@@ -29,6 +29,16 @@ Inclusive design en ontwerpen voor 1 mens.
 - [Opdracht 1 - Werken met en voor echte mensen](Opdracht1.md)
 
 
+#### Testen
+Op woensdag gaan we aannames testen en kennismaken met echte mensen.
+
+Marie van Driessche komt woensdag om 9:30.
+
+Larissa Klaassen komt woensdag om 13:00.
+
+Marijn Meijles komt woensdag om 15:00.
+
+
 #### Lezen
 - [Exclusive Design van Vasilis van Gemert](https://exclusive-design.vasilis.nl/)
 
@@ -44,6 +54,14 @@ Over principles, user needs & testen. Deze week heb je het tweede gesprek met je
 - [College over Principles, User needs & Testen](https://docs.google.com/presentation/d/13cYkzwAmlMyh4UcO94kMYMKe7GHQGm-OWxVs1wFarPI/edit?usp=sharing)
 - [Opdracht 1.2 - User Scenario  schrijven](https://docs.google.com/presentation/d/13cYkzwAmlMyh4UcO94kMYMKe7GHQGm-OWxVs1wFarPI/edit#slide=id.g510bb03d2a_0_591d)
 - [Opdracht 1.3 - Principles gebruiken in je ontwerp ](https://docs.google.com/presentation/d/13cYkzwAmlMyh4UcO94kMYMKe7GHQGm-OWxVs1wFarPI/edit#slide=id.g510bb03d2a_0_597)
+
+#### Testen
+Marie komt woensdag om 9:30.
+
+Larissa komt woensdag om 13:00.
+
+Marijn komt donderdagavond om 18:00.
+
 
 #### Lezen
 - [Principles of User Interface Design van Joshua Porter](http://bokardo.com/principles-of-user-interface-design/)
@@ -64,8 +82,12 @@ De Weekly Nerd is deze week de Weekly Mingle. In groepjes gaan we bedrijven bezo
 In week 3 gaan we verder met testen, itereren en reflecteren. Woensdag kun je je vorderingen bespreken met je 'mens'. Vrijdag wordt je beoordeeld.
 
 
-#### Lezen
-- []()
+#### Testen
+Marie komt woensdag om 9:30.
+
+Larissa komt woensdag om 13:00.
+
+Marijn komt donderdagavond om 18:30.
 
 
 #### Weekly Nerd
