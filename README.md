@@ -42,15 +42,15 @@ Daan Rongen gaat vertellen over onderzoek, ontwerp en ontwikkeling in het afstud
 Over principles, user needs & testen. Deze week heb je het tweede gesprek met je 'mens'. Wat ga je testen? Wat wil je weten?
 
 - [College over Principles, User needs & Testen](https://docs.google.com/presentation/d/13cYkzwAmlMyh4UcO94kMYMKe7GHQGm-OWxVs1wFarPI/edit?usp=sharing)
-- [Opdracht 1.2 - User Sceanrio schrijven](https://docs.google.com/presentation/d/13cYkzwAmlMyh4UcO94kMYMKe7GHQGm-OWxVs1wFarPI/edit#slide=id.g510bb03d2a_0_591d)
-- - [Opdracht 1.3 - Principles gebruiken in je ontwerp ](https://docs.google.com/presentation/d/13cYkzwAmlMyh4UcO94kMYMKe7GHQGm-OWxVs1wFarPI/edit#slide=id.g510bb03d2a_0_597)
+- [Opdracht 1.2 - User Scenario schrijven schrijven](https://docs.google.com/presentation/d/13cYkzwAmlMyh4UcO94kMYMKe7GHQGm-OWxVs1wFarPI/edit#slide=id.g510bb03d2a_0_591d)
+- [Opdracht 1.3 - Principles gebruiken in je ontwerp ](https://docs.google.com/presentation/d/13cYkzwAmlMyh4UcO94kMYMKe7GHQGm-OWxVs1wFarPI/edit#slide=id.g510bb03d2a_0_597)
 
 #### Lezen
 - [Principles of User Interface Design van Joshua Porter](http://bokardo.com/principles-of-user-interface-design/)
 -  [10 Usability Lessons van Steve Krug](https://www.uxbooth.com/articles/10-usability-lessons-from-steve-krugs-dont-make-me-think/)
 - [Design for Fingers, Touch, and People van Steven Hoober](https://www.uxmatters.com/mt/archives/2017/03/design-for-fingers-touch-and-people-part-1.php)
 - [How User Scenarios Help To Improve Your UX van Sabina Idler](https://usabilla.com/blog/how-user-scenarios-help-to-improve-your-ux/)
-- [How people look for information]()
+- [How People Look for Information door Donna Spencer](https://moodle.cmd.hva.nl/pluginfile.php/49531/mod_resource/content/0/How%20people%20look%20for%20information.pdf)
 
 
 #### Weekly Nerd
