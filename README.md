@@ -22,7 +22,7 @@ In het vak Web design gaan we dingen ontwerpen voor echte mensen. Is er goede in
 Inclusive design en ontwerpen voor 1 mens.
 - [College over Inclusive Design](https://drive.google.com/open?id=1wGhSJ0sYZw2f7PhiyI9d12aW4nfvkt47)
 - [Les 1 - Briefing opdracht 1](https://docs.google.com/presentation/d/1-DU6Nj_N-inT4CGFh_sHZN4RA0XEVkow1qSPF14Ltog/edit?usp=sharing)
-- [Opdracht 1 - Annames testen](Opdracht1.md)
+- [Opdracht 1 - Werken met en voor echte mensen](Opdracht1.md)
 
 
 #### Lezen
@@ -42,6 +42,8 @@ Daan Rongen gaat vertellen over onderzoek, ontwerp en ontwikkeling in het afstud
 Over principles, user needs & testen. Deze week heb je het tweede gesprek met je 'mens'. Wat ga je testen? Wat wil je weten?
 
 - [College over Principles, User needs & Testen](https://docs.google.com/presentation/d/13cYkzwAmlMyh4UcO94kMYMKe7GHQGm-OWxVs1wFarPI/edit?usp=sharing)
+- [Opdracht 1.2 - User Sceanrio schrijven](https://docs.google.com/presentation/d/13cYkzwAmlMyh4UcO94kMYMKe7GHQGm-OWxVs1wFarPI/edit#slide=id.g510bb03d2a_0_591d)
+- - [Opdracht 1.3 - Principles gebruiken in je ontwerp ](https://docs.google.com/presentation/d/13cYkzwAmlMyh4UcO94kMYMKe7GHQGm-OWxVs1wFarPI/edit#slide=id.g510bb03d2a_0_597)
 
 #### Lezen
 - [Principles of User Interface Design van Joshua Porter](http://bokardo.com/principles-of-user-interface-design/)
