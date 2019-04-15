@@ -9,9 +9,9 @@ In het vak Web design gaan we dingen ontwerpen voor echte mensen. Is er goede in
 
 | Planning  | Maandag  |  Woensdag | Vrijdag  |
 |---|---|---|---|
-| Week 1  | College Exclusive design + Briefing opdracht 1  | Aannames testen met echte mensen  | Feedbackgesprekken  |
-| Week 2  | College Principles, User Needs & Testen  | Testen met echte mensen  | <del>Feedbackgesprekken</del><br>_Goede vrijdag_  |
-| Week 3  | <del>College</del><br>_Tweede Paasdag_  | Testen met echte mensen  | Beoordelingsgesprekken  |
+| <a href=#week-1>Week 1</a>  | College Exclusive design + Briefing opdracht 1  | Aannames testen met echte mensen  | Feedbackgesprekken  |
+| <a href=#week-2>Week 2</a>  | College Principles, User Needs & Testen  | Testen met echte mensen  | <del>Feedbackgesprekken</del><br>_Goede vrijdag_  |
+| <a href=#week-3>Week 3</a>  | <del>College</del><br>_Tweede Paasdag_  | Testen met echte mensen  | Beoordelingsgesprekken  |
 
 
 ## Leerdoelen
