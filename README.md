@@ -10,8 +10,8 @@ In het vak Web design gaan we dingen ontwerpen voor echte mensen. Is er goede in
 | Planning  | Maandag  |  Woensdag | Vrijdag  |
 |---|---|---|---|
 | Week 1  | College Exclusive design + Briefing opdracht 1  | Aannames testen met echte mensen  | Feedbackgesprekken met coach  |
-| Week 2  | College Principles, User Needs & Testen  | Testen met echte mensen  | Feedbackgesprekken met coach  |
-| Week 3  |   | Testen met echte mensen  | Beoordelingsgesprekken  |
+| Week 2  | College Principles, User Needs & Testen  | Testen met echte mensen  | <del>Feedbackgesprekken</del>  |
+| Week 3  | <del>College</del>  | Testen met echte mensen  | Beoordelingsgesprekken  |
 
 
 ## Leerdoelen
