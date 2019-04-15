@@ -14,9 +14,9 @@ Week 3 | *Tweede Paasdag* | Testen met echte mensen | Beoordelingsgesprekken
 
 | Planning  | Maandag  |  Woensdag | Vrijdag  |
 |---|---|---|---|
-| Week 1  |   |   |   |
-| Week 2  |   |   |   |
-| Week 3  |   |   |   |
+| Week 1  | Exclusive design + Briefing opdracht 1  | Aannames testen met echte mensen  | Feedbackgesprekken met coach  |
+| Week 2  |   | Testen met echte mensen  | Feedbackgesprekken met coach  |
+| Week 3  |   | Testen met echte mensen  | Beoordelingsgesprekken  |
 
 
 ## Leerdoelen
