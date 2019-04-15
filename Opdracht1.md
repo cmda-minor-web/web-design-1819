@@ -1,5 +1,5 @@
 # Web design
-## Opdracht 1 - Annames testen
+## Opdracht 1 - Werken met en voor echte mensen.
 
 Op maandag gaan we kennis maken met de echte mensen voor wie we gaan ontwerpen. We gaan een kleine interactieve demo maken om te testen.
 
