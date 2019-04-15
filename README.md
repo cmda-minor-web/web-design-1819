@@ -2,13 +2,15 @@
 //Interactie vormgeven: Rapid prototypen en testen met echte gebruikers
 
 
-
-
 In het vak Web design gaan we dingen ontwerpen voor echte mensen. Is er goede interactie? Kan je 'mens' je product op een prettige manier bedienen? Wat voor principes heb je gebruikt en getest? En zit er wel _nonsense_ in?
 
 
-
-
+## Planning
+Planning   | Maandag   | Woensdag   | Vrijdag   |
+--------- |:-------------:| -----:
+Week 1 | Exclusive design + Briefing opdracht 1 | Aannames testen met echte mensen | Feedbackgesprekken met coach
+Week 2 | Over principles, user needs & testen | Testen met echte mensen | *Goede vrijdag*
+Week 3 | *Tweede Paasdag* | Testen met echte mensen | Beoordelingsgesprekken
 
 ## Leerdoelen
 - _Leren hoe je (interface) (design) (in/exclusive) principles in een ontwerp kan toepassen._
@@ -20,17 +22,13 @@ In het vak Web design gaan we dingen ontwerpen voor echte mensen. Is er goede in
 
 ### Week 1
 Inclusive design en ontwerpen voor 1 mens.
-- [College over Inclusive Design](https://drive.google.com/open?id=1wGhSJ0sYZw2f7PhiyI9d12aW4nfvkt47)
+- [College over Exclusive Design](https://drive.google.com/open?id=1wGhSJ0sYZw2f7PhiyI9d12aW4nfvkt47)
 - [Les 1 - Briefing opdracht 1](https://docs.google.com/presentation/d/1-DU6Nj_N-inT4CGFh_sHZN4RA0XEVkow1qSPF14Ltog/edit?usp=sharing)
 - [Opdracht 1 - Werken met en voor echte mensen](Opdracht1.md)
 
 
 #### Lezen
 - [Exclusive Design van Vasilis van Gemert](https://exclusive-design.vasilis.nl/)
-- (The spectrum of design roles in 2018
-van Jasper Stephenson)[https://uxdesign.cc/the-spectrum-of-digital-design-roles-in-2018-3286390a9966]
-
-
 
 
 #### Weekly Nerd
@@ -42,7 +40,7 @@ Daan Rongen gaat vertellen over onderzoek, ontwerp en ontwikkeling in het afstud
 Over principles, user needs & testen. Deze week heb je het tweede gesprek met je 'mens'. Wat ga je testen? Wat wil je weten?
 
 - [College over Principles, User needs & Testen](https://docs.google.com/presentation/d/13cYkzwAmlMyh4UcO94kMYMKe7GHQGm-OWxVs1wFarPI/edit?usp=sharing)
-- [Opdracht 1.2 - User Scenario schrijven schrijven](https://docs.google.com/presentation/d/13cYkzwAmlMyh4UcO94kMYMKe7GHQGm-OWxVs1wFarPI/edit#slide=id.g510bb03d2a_0_591d)
+- [Opdracht 1.2 - User Scenario  schrijven](https://docs.google.com/presentation/d/13cYkzwAmlMyh4UcO94kMYMKe7GHQGm-OWxVs1wFarPI/edit#slide=id.g510bb03d2a_0_591d)
 - [Opdracht 1.3 - Principles gebruiken in je ontwerp ](https://docs.google.com/presentation/d/13cYkzwAmlMyh4UcO94kMYMKe7GHQGm-OWxVs1wFarPI/edit#slide=id.g510bb03d2a_0_597)
 
 #### Lezen
@@ -61,7 +59,7 @@ De Weekly Nerd is deze week de Weekly Mingle. In groepjes gaan we bedrijven bezo
 
 
 ### Week 3
-Testen, itereren en reflecteren.
+In week 3 gaan we verder met testen, itereren en reflecteren. Woensdag kun je je vorderingen bespreken met je 'mens'. Vrijdag wordt je beoordeeld.
 
 
 #### Lezen
