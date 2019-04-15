@@ -65,10 +65,11 @@ Marijn komt donderdagavond om 18:00.
 
 #### Lezen
 - [Principles of User Interface Design van Joshua Porter](http://bokardo.com/principles-of-user-interface-design/)
--  [10 Usability Lessons van Steve Krug](https://www.uxbooth.com/articles/10-usability-lessons-from-steve-krugs-dont-make-me-think/)
-- [Design for Fingers, Touch, and People van Steven Hoober](https://www.uxmatters.com/mt/archives/2017/03/design-for-fingers-touch-and-people-part-1.php)
 - [How User Scenarios Help To Improve Your UX van Sabina Idler](https://usabilla.com/blog/how-user-scenarios-help-to-improve-your-ux/)
 - [How People Look for Information door Donna Spencer](https://moodle.cmd.hva.nl/pluginfile.php/49531/mod_resource/content/0/How%20people%20look%20for%20information.pdf)
+-  [10 Usability Lessons van Steve Krug](https://www.uxbooth.com/articles/10-usability-lessons-from-steve-krugs-dont-make-me-think/)
+- [Design for Fingers, Touch, and People van Steven Hoober](https://www.uxmatters.com/mt/archives/2017/03/design-for-fingers-touch-and-people-part-1.php)
+
 
 
 #### Weekly Nerd
