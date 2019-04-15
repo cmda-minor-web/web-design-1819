@@ -12,6 +12,13 @@ Week 1 | Exclusive design + Briefing opdracht 1 | Aannames testen met echte mens
 Week 2 | Over principles, user needs & testen | Testen met echte mensen | *Goede vrijdag*
 Week 3 | *Tweede Paasdag* | Testen met echte mensen | Beoordelingsgesprekken
 
+| Planning  | Maandag  |  Woensdag | Vrijdag  |
+|---|---|---|---|
+| Week 1  |   |   |   |
+| Week 2  |   |   |   |
+| Week 3  |   |   |   |
+
+
 ## Leerdoelen
 - _Leren hoe je (interface) (design) (in/exclusive) principles in een ontwerp kan toepassen._
 - _User needs begrijpen en gebruiken in je ontwerp._
