@@ -58,7 +58,7 @@ Over principles, user needs & testen. Deze week heb je het tweede gesprek met je
 #### Testen
 Marie komt woensdag om 9:30.
 
-Larissa komt woensdag om 13:00.
+Larissa komt donderdag om 13:00.
 
 Marijn komt donderdagavond om 18:00.
 
