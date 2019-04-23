@@ -46,6 +46,7 @@ Marijn Meijles komt woensdag om 15:00.
 
 #### Lezen
 - [Exclusive Design van Vasilis van Gemert](https://exclusive-design.vasilis.nl/)
+- [Design for Both Needs and Wants: Applying Anderson’s User Experience Hierarchy of Need](Design for Both Needs and Wants: Applying Anderson’s User Experience Hierarchy of Need)
 - [Design for Fingers, Touch, and People van Steven Hoober](https://www.uxmatters.com/mt/archives/2017/03/design-for-fingers-touch-and-people-part-1.php)
 
 #### Weekly Nerd
