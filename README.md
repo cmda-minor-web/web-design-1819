@@ -46,7 +46,7 @@ Marijn Meijles komt woensdag om 15:00.
 
 #### Lezen
 - [Exclusive Design van Vasilis van Gemert](https://exclusive-design.vasilis.nl/)
-
+- [Design for Fingers, Touch, and People van Steven Hoober](https://www.uxmatters.com/mt/archives/2017/03/design-for-fingers-touch-and-people-part-1.php)
 
 #### Weekly Nerd
 Daan Rongen gaat vertellen over onderzoek, ontwerp en ontwikkeling in het afstudeerjaar. En _learnings_ over exposeren (op de Dutch Design week). En over een designers houding, want ja mensen, web dev-ies zijn ook ontwepers.  Woensdag 10 April, 16:00 in het minorlokaal.
@@ -69,11 +69,9 @@ Marijn komt donderdagavond om 18:00.
 
 
 #### Lezen
-- [Principles of User Interface Design van Joshua Porter](http://bokardo.com/principles-of-user-interface-design/)
 - [How User Scenarios Help To Improve Your UX van Sabina Idler](https://usabilla.com/blog/how-user-scenarios-help-to-improve-your-ux/)
-- [How People Look for Information door Donna Spencer](https://moodle.cmd.hva.nl/pluginfile.php/49531/mod_resource/content/0/How%20people%20look%20for%20information.pdf)
--  [10 Usability Lessons van Steve Krug](https://www.uxbooth.com/articles/10-usability-lessons-from-steve-krugs-dont-make-me-think/)
-- [Design for Fingers, Touch, and People van Steven Hoober](https://www.uxmatters.com/mt/archives/2017/03/design-for-fingers-touch-and-people-part-1.php)
+- [Principles of User Interface Design van Joshua Porter](http://bokardo.com/principles-of-user-interface-design/)
+- [Design Principles: Dominance, Focal Points And Hierarchy van Steven Bradley](https://www.smashingmagazine.com/2015/02/design-principles-dominance-focal-points-hierarchy/)
 
 
 
@@ -96,6 +94,10 @@ Larissa komt woensdag om 11:15.
 
 Marijn komt donderdagavond om 18:30.
 
+
+#### Lezen
+-  [10 Usability Lessons van Steve Krug](https://www.uxbooth.com/articles/10-usability-lessons-from-steve-krugs-dont-make-me-think/)
+- [How People Look for Information door Donna Spencer](https://moodle.cmd.hva.nl/pluginfile.php/49531/mod_resource/content/0/How%20people%20look%20for%20information.pdf)
 
 #### Weekly Nerd
 De Weekly Nerd is deze week weer een Weekly Mingle.
