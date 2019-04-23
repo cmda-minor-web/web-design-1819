@@ -1,6 +1,7 @@
 # Web Design @cmda-minor-web 1819
-//Interactie vormgeven: Rapid prototypen en testen met echte gebruikers
+//Interactie ontwerpen: Rapid prototypen en testen met echte gebruikers
 
+Web Design gaat over het ontwerpen en testen van Interactie. Het voordeel van een Frontend Developer, of Web Designer, is dat die techniek begrijpt, kan toepassen én verstand heeft van UX en design ... Als je Web techniek begrijpt kun je je ideeën snel prototypen en testen met echte gebruikers, in een browser, en dan aanpassingen doorvoeren, uitproberen en weer testen ...
 
 In het vak Web design gaan we dingen ontwerpen voor echte mensen. Is er goede interactie? Kan je 'mens' je product op een prettige manier bedienen? Wat voor principes heb je gebruikt en getest? En zit er wel _nonsense_ in?
 
@@ -20,10 +21,14 @@ In het vak Web design gaan we dingen ontwerpen voor echte mensen. Is er goede in
 - _Leren hoe je moet testen en de resultaten gebruiken voor het verbeteren van je ontwerp._
 
 
+[Rubric](https://docs.google.com/spreadsheets/d/1KpPZXGFWDdw4Y_pcyCYT-OdU2MLnE_i_F0W4rzd7TPg/edit?usp=sharing)
+
 
 
 ### Week 1
-Exclusive design en ontwerpen voor 1 mens.
+Deze week krijg je een college over _Exclusive Design Principles_. Deze Principles ga je toepassen in de opdracht. Op woensdag gaan we kennis maken met de echte mensen voor wie we gaan ontwerpen. Je kan dan al een kleine interactieve demo maken om te testen.
+
+
 - [College over Exclusive Design](https://drive.google.com/open?id=1wGhSJ0sYZw2f7PhiyI9d12aW4nfvkt47)
 - [Les 1 - Briefing opdracht 1](https://docs.google.com/presentation/d/1-DU6Nj_N-inT4CGFh_sHZN4RA0XEVkow1qSPF14Ltog/edit?usp=sharing)
 - [Opdracht 1 - Werken met en voor echte mensen](Opdracht1.md)
@@ -49,7 +54,7 @@ Daan Rongen gaat vertellen over onderzoek, ontwerp en ontwikkeling in het afstud
 
 
 ### Week 2
-Over principles, user needs & testen. Deze week heb je het tweede gesprek met je 'mens'. Wat ga je testen? Wat wil je weten?
+Je krijgt ook een college over principles, user needs & testen. Deze week heb je het tweede gesprek met je 'mens'. Wat ga je testen? Wat wil je weten?
 
 - [College over Principles, User needs & Testen](https://docs.google.com/presentation/d/13cYkzwAmlMyh4UcO94kMYMKe7GHQGm-OWxVs1wFarPI/edit?usp=sharing)
 - [Opdracht 1.2 - User Scenario  schrijven](https://docs.google.com/presentation/d/13cYkzwAmlMyh4UcO94kMYMKe7GHQGm-OWxVs1wFarPI/edit#slide=id.g510bb03d2a_0_591d)
@@ -82,13 +87,15 @@ De Weekly Nerd is deze week de Weekly Mingle. In groepjes gaan we bedrijven bezo
 ### Week 3
 In week 3 gaan we verder met testen, itereren en reflecteren. Woensdag kun je je vorderingen bespreken met je 'mens'. Vrijdag wordt je beoordeeld.
 
+Deze week moet je ook je opdracht opleveren. Vrijdag hebben we een gesprek waarin we je vorderingen en bevindingen gaan bespreken. We verwachten dat je op Github je tests en iteraties hebt beschreven. Belangrijk is dat je reflecteert op de 3 leerdoelen van het vak.
 
 #### Testen
-Marie komt woensdag om 9:30.
+Marie komt woensdag om 10:30.
 
-Larissa komt woensdag om 13:00.
+Larissa komt woensdag om 11:15.
 
 Marijn komt donderdagavond om 18:30.
 
 
 #### Weekly Nerd
+De Weekly Nerd is deze week weer een Weekly Mingle.

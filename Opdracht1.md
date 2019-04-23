@@ -1,21 +1,24 @@
 # Web design
 ## Opdracht 1 - Werken met en voor echte mensen.
 
-Op maandag gaan we kennis maken met de echte mensen voor wie we gaan ontwerpen. We gaan een kleine interactieve demo maken om te testen.
+
+Voor dit vak krijg je een ontwerp-opdracht die je gaat maken voor 1 mens. Een echt mens. Je moet je ontwerp 3 keer testen. Door te testen en te itereren ga je je ontwerp verbeteren. Uiteindelijk heb je een ontwerp dat exclusief gemaakt is voor 1 gebruiker. Een _exclusive design_ ... Wie is deze gebruiker dan voor wie je dit gaat maken? Wat vindt deze gebruiker leuk of juist niet? En hoe bedient deze gebruiker een computer?
+
+
 
 ### Doel van deze opdracht
-Het doel van deze opdracht is om kennis te maken met de gebruiker, en om te testen of jouw gebruiker, jouw 'mens' je demo goed kan bedienen. Kloppen je aannames?  Wat kun je nog verbeteren?
+Het doel van deze opdracht is om je te verdiepen in een gebruiker, en om te leren testen. Test of jouw gebruiker, jouw 'mens' je demo goed kan bedienen. Kloppen je aannames? Door te prototypen en testen met echte mensen leer je hoe je je ontwerp kan verbeteren.
+
 
 ### Uitleg
 Je wordt ingedeeld in een groep die gaat ontwerpen voor 1 specifieke gebruiker. Bij elke groep horen een paar opdrachten. Die mag je zelf kiezen.
 
-Voor het maken van deze opdrachtjes maak je gebruik van de _Exclusive Design Principles_:
+Voor het maken van deze opdracht maak je gebruik van de _Exclusive Design Principles_:
 
 - Study Situation
 - Ignore Conventions
 - Prioritise Identity
 - Add Nonsense
-
 
 
 ### Marie van Driessche
@@ -68,3 +71,4 @@ Marijn is motorisch gestoord. Hij gebruikt zijn computer dus anders dan wij. Hij
 - Maak verschillende demo's, versies, varianten van je opdracht. Experimenteer met verschillende vormen van interactie en vormgeving. Wat werkt goed? Wat werkt niet goed?
 - Bespreek en test je demo's met jouw specifieke gebruiker. Documenteer de test goed.
 - Verbeter je ontwerp op basis van de feedback die je hebt gekregen van de gebruiker.
+- Reflecteer op de 3 leerdoelen van het vak.
