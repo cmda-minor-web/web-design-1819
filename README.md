@@ -90,7 +90,7 @@ De Weekly Nerd is deze week de Weekly Mingle. In groepjes gaan we bedrijven bezo
 In week 3 gaan we verder met testen, itereren en reflecteren. Woensdag kun je je vorderingen bespreken met je 'mens'. Vrijdag wordt je beoordeeld.
 
 Vrijdag hebben we een gesprek waarin we je vorderingen en bevindingen bespreken. We verwachten dat je op Github je tests en iteraties hebt beschreven. Belangrijk is dat je reflecteert op de 3 leerdoelen van het vak.
-Lees hier de [criteria van opdracht 1](Opdracht1.md]
+Lees hier de [criteria van opdracht 1](Opdracht1.md)
 
 #### Testen
 Marie komt woensdag om 10:30.
