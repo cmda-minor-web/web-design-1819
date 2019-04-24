@@ -58,7 +58,8 @@ Daan Rongen gaat vertellen over onderzoek, ontwerp en ontwikkeling in het afstud
 
 
 ### Week 2
-Je krijgt ook een college over principles, user needs & testen. Deze week heb je het tweede gesprek met je 'mens'. Wat ga je testen? Wat wil je weten?
+Deze week heb je het tweede gesprek met je 'mens'. Wat ga je testen? Wat wil je weten?
+Je krijgt ook een college over principles, user needs & testen. 
 
 - [College over Principles, User needs & Testen](https://docs.google.com/presentation/d/13cYkzwAmlMyh4UcO94kMYMKe7GHQGm-OWxVs1wFarPI/edit?usp=sharing)
 - [Opdracht 1.2 - User Scenario  schrijven](https://docs.google.com/presentation/d/13cYkzwAmlMyh4UcO94kMYMKe7GHQGm-OWxVs1wFarPI/edit#slide=id.g510bb03d2a_0_591d)
@@ -89,7 +90,8 @@ De Weekly Nerd is deze week de Weekly Mingle. In groepjes gaan we bedrijven bezo
 ### Week 3
 In week 3 gaan we verder met testen, itereren en reflecteren. Woensdag kun je je vorderingen bespreken met je 'mens'. Vrijdag wordt je beoordeeld.
 
-Deze week moet je ook je opdracht opleveren. Vrijdag hebben we een gesprek waarin we je vorderingen en bevindingen gaan bespreken. We verwachten dat je op Github je tests en iteraties hebt beschreven. Belangrijk is dat je reflecteert op de 3 leerdoelen van het vak.
+Vrijdag hebben we een gesprek waarin we je vorderingen en bevindingen bespreken. We verwachten dat je op Github je tests en iteraties hebt beschreven. Belangrijk is dat je reflecteert op de 3 leerdoelen van het vak.
+Lees hier de [criteria van opdracht 1](Opdracht1.md]
 
 #### Testen
 Marie komt woensdag om 10:30.
