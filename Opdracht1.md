@@ -21,7 +21,7 @@ Voor het maken van deze opdracht maak je gebruik van de _Exclusive Design Princi
 - Add Nonsense
 
 
-### Marie van Driessche
+#### Marie van Driessche
 
 Marie is Doof (met een hoofdletten inderdaad, dat betekent dat ze zichzelf als Doof identificeert, wat simpelgezegd betekent dat haar eerste taal Nederlandse Gebarentaal is). Je zult begrijpen dat Marie moeite heeft met dingen waar geluid een grote rol speelt.
 
@@ -35,7 +35,7 @@ Marie is Doof (met een hoofdletten inderdaad, dat betekent dat ze zichzelf als D
 <p>Voor Marie gaat er enorm veel nuance verloren tijdens het kijken naar een film of een documentaire. Bij veel films worden closed captions aangeboden, maar die zijn zo neutraal als maar kan. Hoe zou je closed captions
 </details>
 
-### Larissa Klaassen
+#### Larissa Klaassen
 
 Larissa is blind. Ze maakt gebruik van een brailleregel, en van een screenreader. Je snapt dat heel veel van de gangbare design patterns niet optimaal werken voor haar omdat ze 100% vanuit een visueel oogpunt ontworpen zijn.
 
@@ -49,7 +49,7 @@ Larissa is blind. Ze maakt gebruik van een brailleregel, en van een screenreader
 <p>Hannes Wallrafen maakt <a href="http://www.geluidinzicht.nl/geluidsprojecten/">audiocollages</a>. Deze wil hij graag op een nieuwe website zetten. Hier wil hij grappige, korte geanimeerde illustraties bij hebben. Ontwerp bij één audiocollage één geanimeerde illustratie <em>die zowel voor Larissa, als voor jezelf grappig is</em>.
 </details>
 
-### Marijn Meijles
+#### Marijn Meijles
 
 Marijn is motorisch gestoord. Hij gebruikt zijn computer dus anders dan wij. Hij heeft veel moeite met fijne motoriek. Hij gebruikt zijn toetsenbord om te navigeren, en in de Accessibility settings van zijn Mac heeft hij Sticky Keys aan staan.
 
