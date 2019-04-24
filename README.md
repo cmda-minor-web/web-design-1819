@@ -6,13 +6,14 @@ Web Design gaat over het ontwerpen en testen van Interactie. Het voordeel van ee
 In het vak Web design gaan we dingen ontwerpen voor echte mensen. Is er goede interactie? Kan je 'mens' je product op een prettige manier bedienen? Wat voor principes heb je gebruikt en getest? En zit er wel _nonsense_ in?
 
 
-[Rubric](https://docs.google.com/spreadsheets/d/1KpPZXGFWDdw4Y_pcyCYT-OdU2MLnE_i_F0W4rzd7TPg/edit?usp=sharing)
-
 
 ## Leerdoelen
 - _Leren hoe je (interface) (design) (in/exclusive) principles in een ontwerp kan toepassen._
 - _User needs begrijpen en gebruiken in je ontwerp._
 - _Leren hoe je moet testen en de resultaten gebruiken voor het verbeteren van je ontwerp._
+
+[Rubric](https://docs.google.com/spreadsheets/d/1KpPZXGFWDdw4Y_pcyCYT-OdU2MLnE_i_F0W4rzd7TPg/edit?usp=sharing)
+
 
 
 ## Planning
