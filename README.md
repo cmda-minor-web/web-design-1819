@@ -6,13 +6,7 @@ Web Design gaat over het ontwerpen en testen van Interactie. Het voordeel van ee
 In het vak Web design gaan we dingen ontwerpen voor echte mensen. Is er goede interactie? Kan je 'mens' je product op een prettige manier bedienen? Wat voor principes heb je gebruikt en getest? En zit er wel _nonsense_ in?
 
 
-## Planning
-
-| Planning  | Maandag  |  Woensdag | Vrijdag  |
-|---|---|---|---|
-| <a href=#week-1>Week 1</a>  | College Exclusive design + Briefing opdracht 1  | Aannames testen met echte mensen  | Feedbackgesprekken  |
-| <a href=#week-2>Week 2</a>  | College Principles, User Needs & Testen  | Testen met echte mensen  | <del>Feedbackgesprekken</del><br>_Goede vrijdag_  |
-| <a href=#week-3>Week 3</a>  | <del>College</del><br>_Tweede Paasdag_  | Testen met echte mensen  | Beoordelingsgesprekken  |
+[Rubric](https://docs.google.com/spreadsheets/d/1KpPZXGFWDdw4Y_pcyCYT-OdU2MLnE_i_F0W4rzd7TPg/edit?usp=sharing)
 
 
 ## Leerdoelen
@@ -21,7 +15,14 @@ In het vak Web design gaan we dingen ontwerpen voor echte mensen. Is er goede in
 - _Leren hoe je moet testen en de resultaten gebruiken voor het verbeteren van je ontwerp._
 
 
-[Rubric](https://docs.google.com/spreadsheets/d/1KpPZXGFWDdw4Y_pcyCYT-OdU2MLnE_i_F0W4rzd7TPg/edit?usp=sharing)
+## Planning
+
+| Planning  | Maandag  |  Woensdag | Vrijdag  |
+|---|---|---|---|
+| <a href=#week-1>Week 1</a>  | College Exclusive design + Briefing opdracht 1  | Aannames testen met echte mensen  | Feedbackgesprekken  |
+| <a href=#week-2>Week 2</a>  | College Principles, User Needs & Testen  | Testen met echte mensen  | <del>Feedbackgesprekken</del><br>_Goede vrijdag_  |
+| <a href=#week-3>Week 3</a>  | <del>College</del><br>_Tweede Paasdag_  | Testen met echte mensen  | Beoordelingsgesprekken  |
+
 
 
 ## Programma
