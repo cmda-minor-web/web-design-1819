@@ -68,7 +68,7 @@ Marijn is motorisch gestoord. Hij gebruikt zijn computer dus anders dan wij. Hij
 
 
 ### Criteria
-- Maak verschillende demo's, versies, varianten van je opdracht. Experimenteer met verschillende vormen van interactie en vormgeving. Wat werkt goed? Wat werkt niet goed?
-- Bespreek en test je demo's met jouw specifieke gebruiker. Documenteer de test goed.
+- Maak verschillende ontwerpen, versies, varianten van je opdracht. Experimenteer met verschillende vormen van interactie en vormgeving. Wat werkt goed? Wat werkt niet goed?
+- Test je ideeen en ontwerp 3 keer met jouw specifieke gebruiker. Documenteer de test goed.
 - Verbeter je ontwerp op basis van de feedback die je hebt gekregen van de gebruiker.
 - Reflecteer op de 3 leerdoelen van het vak.
