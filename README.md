@@ -24,6 +24,7 @@ In het vak Web design gaan we dingen ontwerpen voor echte mensen. Is er goede in
 [Rubric](https://docs.google.com/spreadsheets/d/1KpPZXGFWDdw4Y_pcyCYT-OdU2MLnE_i_F0W4rzd7TPg/edit?usp=sharing)
 
 
+## Programma
 
 ### Week 1
 Deze week krijg je een college over _Exclusive Design Principles_. Deze Principles ga je toepassen in de opdracht. Op woensdag gaan we kennis maken met de echte mensen voor wie we gaan ontwerpen. Je kan dan al een kleine interactieve demo maken om te testen.
