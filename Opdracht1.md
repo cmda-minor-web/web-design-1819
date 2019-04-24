@@ -13,7 +13,7 @@ Het doel van deze opdracht is om je te verdiepen in een gebruiker, en om te lere
 ### Uitleg
 Je wordt ingedeeld in een groep die gaat ontwerpen voor 1 specifieke gebruiker. Bij elke groep horen een paar opdrachten. Die mag je zelf kiezen.
 
-Voor het maken van deze opdracht maak je gebruik van de [https://exclusive-design.vasilis.nl](_Exclusive Design Principles_):
+Voor het maken van deze opdracht maak je gebruik van de [_Exclusive Design Principles_](https://exclusive-design.vasilis.nl):
 
 - Study Situation
 - Ignore Conventions
