@@ -33,7 +33,6 @@ Deze week krijg je een college over _Exclusive Design Principles_. Deze Principl
 
 
 - [College over Exclusive Design](https://drive.google.com/open?id=1wGhSJ0sYZw2f7PhiyI9d12aW4nfvkt47)
-- [Les 1 - Briefing opdracht 1](https://docs.google.com/presentation/d/1-DU6Nj_N-inT4CGFh_sHZN4RA0XEVkow1qSPF14Ltog/edit?usp=sharing)
 - [Opdracht 1 - Werken met en voor echte mensen](Opdracht1.md)
 
 
