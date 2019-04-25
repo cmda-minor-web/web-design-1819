@@ -41,7 +41,7 @@ Larissa is blind. Ze maakt gebruik van een brailleregel, en van een screenreader
 
 <details>
 <summary>Hoe zou een navigatie voor Larissa kunnen werken?</summary>
-<p>Tijdens het introductiecollege heb je een filmpje gezien van een niet-getrainde screenreadergebruiker die een navigatiemenu gebruikt. Dat was niet optimaal. Het menu helemaal onderaan de pagina zetten is weer onhandig voor als je dat wel nodig hebt. Stel nou dat *iedereen* blind was en een screenreader gebruikte, wat zou dan het normale navigatie-pattern zijn?
+<p>Tijdens het introductiecollege heb je een filmpje gezien van een niet-getrainde screenreader gebruiker die een navigatiemenu gebruikt. Dat was niet optimaal. Het menu helemaal onderaan de pagina zetten is weer onhandig voor als je dat wel nodig hebt. Stel nou dat *iedereen* blind was en een screenreader gebruikte, wat zou dan het normale navigatie-pattern zijn?
 </details>
 
 <details>
