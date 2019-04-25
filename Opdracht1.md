@@ -23,7 +23,7 @@ Voor het maken van deze opdracht maak je gebruik van de [_Exclusive Design Princ
 
 #### Marie van Driessche
 
-Marie is Doof (met een hoofdletten inderdaad, dat betekent dat ze zichzelf als Doof identificeert, wat simpelgezegd betekent dat haar eerste taal Nederlandse Gebarentaal is). Je zult begrijpen dat Marie moeite heeft met dingen waar geluid een grote rol speelt.
+Marie is Doof (met een hoofdletter inderdaad, dat betekent dat ze zichzelf als Doof identificeert, wat simpelgezegd betekent dat haar eerste taal Nederlandse Gebarentaal is). Je zult begrijpen dat Marie moeite heeft met dingen waar geluid een grote rol speelt.
 
 <details>
 <summary>Hoe werkt een podcast voor Marie?</summary>
